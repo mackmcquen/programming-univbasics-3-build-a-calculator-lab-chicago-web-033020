@@ -19,5 +19,5 @@ remainder = (34).remainder(5)
 end
 
 def square_root(num)
-square = (81)
+square = math.sqrt(81)
 end
